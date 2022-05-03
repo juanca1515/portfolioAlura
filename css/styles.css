@@ -81,7 +81,10 @@ span{
 }
 .main img{
   width: 350px;
-  border-radius: 300px;
+  height: 300px;
+  border-radius: 400px;
+
+  
 }
 
 /* Diseño Sección Sobre Mi */
@@ -102,6 +105,7 @@ span{
 .about img{
   width: 350px;
   grid-column: 1/5;
+  margin: 0 10px;
 }
 .about-info{
   grid-column: 5/10;
